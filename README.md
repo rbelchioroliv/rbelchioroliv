@@ -19,6 +19,7 @@ Hey! I'm just a guy who wants to get rich with front-end <br>              (â¬†ï
 [![](https://visitcount.itsvg.in/api?id=rbelchioroliv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+![Snake animation](https://github.com/rbelchioroliv/rbelchioroliv/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
